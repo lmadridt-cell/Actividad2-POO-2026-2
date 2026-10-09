@@ -9,6 +9,6 @@ Walter Hugo Arboleda Mazo
 # Estudiante: 
 Lizardo de Jesus Madrid Taborda
 
-# Actividad
+# Actividad:
 Actividad2-POO-2026-2
 
